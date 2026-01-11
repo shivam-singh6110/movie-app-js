@@ -1,0 +1,23 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "A movie recommendation application built with vanilla JavaScript that suggests movies based on user preferences and simple logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivam-singh6110/movie-app-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivam-singh6110/movie-app-js/issues"
+  },
+  "homepage": "https://github.com/shivam-singh6110/movie-app-js#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
